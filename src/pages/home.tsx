@@ -35,7 +35,7 @@ const Home = () => {
                   alt=""
                 />
               </div>
-              <div className="name theme_font">館長直播</div>
+              <div className="name theme_font limit_row_1">館長直播</div>
             </div>
           ))}
         </div>
